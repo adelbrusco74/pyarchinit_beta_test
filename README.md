@@ -1,4 +1,8 @@
-pyarchinit_beta_test si tratta della versione ufficiale e mantenuta del plugin
+pyarchinit_beta_test si tratta della versione di pyarchinit considerata come beta_test non più sviluppata. Non saranno aggiunte nuove funzioni o saranno corretti bugs in questa versione. Postate gli issues sotto pyarchinit_beta_test_dev
+
+Grazie a tutti per il lavoro svolto finora!
+
+
 ======================
 
 
